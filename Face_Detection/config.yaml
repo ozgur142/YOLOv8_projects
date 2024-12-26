@@ -1,0 +1,11 @@
+
+path: /home/ozgur/Desktop/Face_Detection/Face_Dataset
+train: images/train
+val: images/val
+
+# Number of classes
+nc: 1
+
+# Classes
+classes:
+  0: face
